@@ -5,9 +5,9 @@ import os
 import json
 from pathlib import Path
 
-AZURE_OPENAI_ENDPOINT = "https://aicandidates-resource.cognitiveservices.azure.com"
-AZURE_OPENAI_API_KEY = "CwTbAUaqNHtPTskxicLd0CtzIpeGpFMvqcZ8yofpKdh3Wn3XxK8PJQQJ99BIACHYHv6XJ3w3AAAAACOGzpEx"
-AZURE_OPENAI_DEPLOYMENT_NAME = "AICandidatesGPT-4o"
+AZURE_OPENAI_ENDPOINT = "AZURE-ENDPOINT"
+AZURE_OPENAI_API_KEY = "API-TOKEN"
+AZURE_OPENAI_DEPLOYMENT_NAME = "DEPLOYMENT"
 AZURE_OPENAI_API_VERSION = "2025-01-01-preview"
 
 # Directorios del proyecto
