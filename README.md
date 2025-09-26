@@ -65,7 +65,7 @@ agente-conversacional-advanced/
 │   └── agent.log                  # Logs estructurados del sistema
 ```
 
-## 🚀 Instalación y Configuración
+## Instalación y Configuración
 
 ### 1. **Clonar y preparar entorno**
 ```bash
