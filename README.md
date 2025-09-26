@@ -188,16 +188,7 @@ pytest tests/ -v
 # Con cobertura
 pytest tests/ --cov=src --cov-report=html
 ```
-
-### **Pruebas Incluidas**
-- ✅ **TestMemorySystem**: Sistema de memoria avanzado
-- ✅ **TestConfigManager**: Gestor de configuración
-- ✅ **TestMetricsLogger**: Sistema de métricas
-- ✅ **Búsqueda por relevancia**: Algoritmo TF-IDF
-- ✅ **Persistencia**: Carga/guardado de datos
-- ✅ **Validación**: Parámetros de configuración
-
-## 📊 Métricas y Monitoreo
+## Métricas y Monitoreo
 
 ### **Métricas Capturadas**
 - **Por interacción**: tokens entrada/salida, tiempo respuesta
